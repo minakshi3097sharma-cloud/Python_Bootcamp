@@ -57,7 +57,7 @@ Python_Bootcamp/
 | Day    | Project                     | Status |
 | ------ | --------------------------- | :----: |
 | Day 1  | Student Information Program |    ✅   |
-| Day 2  | Calculator                  |    ⬜   |
+| Day 2  | Grade Calculator            |    ✅   |
 | Day 3  | Number Guessing Game        |    ⬜   |
 | Day 4  | Password Generator          |    ⬜   |
 | Day 5  | Rock Paper Scissors         |    ⬜   |
