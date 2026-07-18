@@ -1,7 +1,7 @@
 ````markdown
-# Day 3 – Python Loops Mini Project
+# 🎯 Day 03 – Number Guessing Game
 
-This folder contains a beginner-friendly Python mini project created while learning loops.
+A beginner-friendly Python mini project created during my Python Bootcamp.
 
 ## Topics Used
 
@@ -12,9 +12,8 @@ This folder contains a beginner-friendly Python mini project created while learn
 - Input validation
 - Random number generation
 
-## Project
 
-### Number Guessing Game
+## Number Guessing Game
 
 Generates a random number between **1 and 100** and allows the user to guess it. The game provides hints whether the guess is **too high** or **too low** until the correct number is guessed.
 
