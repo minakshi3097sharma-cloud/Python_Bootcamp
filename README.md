@@ -40,9 +40,9 @@ Python_Bootcamp/
 ├── README.md
 │
 ├── Day01_Student_Information
-├── Day02_Calculator
+├── Day02_Grade_Calculator
 ├── Day03_Number_Guessing_Game
-├── Day04_Password_Generator
+├── Day04_Simple_Calculator
 ├── Day05_Rock_Paper_Scissors
 │
 ├── ...
@@ -58,8 +58,8 @@ Python_Bootcamp/
 | ------ | --------------------------- | :----: |
 | Day 1  | Student Information Program |    ✅   |
 | Day 2  | Grade Calculator            |    ✅   |
-| Day 3  | Number Guessing Game        |    ⬜   |
-| Day 4  | Password Generator          |    ⬜   |
+| Day 3  | Number Guessing Game        |    ✅   |
+| Day 4  | Simple Calculator           |    ✅   |
 | Day 5  | Rock Paper Scissors         |    ⬜   |
 | Day 6  | To-Do List                  |    ⬜   |
 | Day 7  | Contact Book                |    ⬜   |
