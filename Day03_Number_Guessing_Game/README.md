@@ -1,5 +1,5 @@
 ````markdown
-# Day 3 – Python Number Guessing Game Mini Project
+# Day 3 – Python Loops Mini Project
 
 This folder contains a beginner-friendly Python mini project created while learning loops.
 
