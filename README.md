@@ -43,7 +43,7 @@ Python_Bootcamp/
 ├── Day02_Grade_Calculator
 ├── Day03_Number_Guessing_Game
 ├── Day04_Simple_Calculator
-├── Day05_Rock_Paper_Scissors
+├── Day05_Student_Marks_Management_System
 │
 ├── ...
 │
@@ -60,7 +60,7 @@ Python_Bootcamp/
 | Day 2  | Grade Calculator            |    ✅   |
 | Day 3  | Number Guessing Game        |    ✅   |
 | Day 4  | Simple Calculator           |    ✅   |
-| Day 5  | Rock Paper Scissors         |    ⬜   |
+| Day 5  | Student Marks Management    |    ✅   |
 | Day 6  | To-Do List                  |    ⬜   |
 | Day 7  | Contact Book                |    ⬜   |
 | Day 8  | File Organizer              |    ⬜   |
