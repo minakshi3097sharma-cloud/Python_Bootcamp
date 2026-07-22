@@ -61,8 +61,8 @@ Python_Bootcamp/
 | Day 3  | Number Guessing Game        |    ✅   |
 | Day 4  | Simple Calculator           |    ✅   |
 | Day 5  | Student Marks Management    |    ✅   |
-| Day 6  | To-Do List                  |    ⬜   |
-| Day 7  | Contact Book                |    ⬜   |
+| Day 6  | Password Strength Checker   |    ✅   |
+| Day 7  | Simple Notes App            |    ✅   |
 | Day 8  | File Organizer              |    ⬜   |
 | Day 9  | Expense Tracker             |    ⬜   |
 | Day 10 | Mini Python Project         |    ⬜   |
