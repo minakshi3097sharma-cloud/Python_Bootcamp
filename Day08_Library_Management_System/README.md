@@ -29,7 +29,7 @@ A beginner-friendly Python project developed using **Object-Oriented Programming
 
 ## 📂 Project Structure
 
-```
+```text
 Day08_Library_Management_System/
 │
 ├── library_management_system.py
@@ -49,15 +49,13 @@ python library_management_system.py
 
 ## 📸 Screenshot
 
-```markdown
-![Program Output](screenshot.png)
-```
+![Program Output](./screenshot.png)
 
 ---
 
 ## 📚 Menu
 
-```
+```text
 1. Add Book
 2. View Books
 3. Borrow Book
