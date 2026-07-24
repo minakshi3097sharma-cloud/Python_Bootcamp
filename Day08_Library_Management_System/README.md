@@ -49,14 +49,6 @@ python library_management_system.py
 
 ## 📸 Screenshot
 
-Add your terminal output screenshot as:
-
-```
-screenshot.png
-```
-
-It will automatically appear here.
-
 ```markdown
 ![Program Output](screenshot.png)
 ```
